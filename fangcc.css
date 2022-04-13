@@ -1,0 +1,419 @@
+.hh{
+    width: 90%;
+    height: 400px;
+    background-color: #83BCA9;
+    border-radius: 55px 55px 55px 55px;
+    margin:auto 2cm auto 2cm;
+    padding-bottom: 200px;
+}
+.hh1{
+    width: 300px;
+    border-radius: 45px;
+    float: left;
+    padding-left: 20px;
+}
+.hh2{
+    position: relative;
+    float:right;
+}
+.hh3{
+    width: 60px;
+    border-radius:50%;
+    padding-left: 20px;
+    
+}
+.s1{
+    width: 90%;
+    height: 400px;
+    background-color: #D5C4C3;
+    border-radius: 55px 55px 55px 55px;
+    margin:auto 2cm auto 2cm;
+}
+.s2{
+    width: 90%;
+    height: 1000px;
+    background-color: #83BCA9;
+    border-radius: 55px 55px 55px 55px;
+    margin:auto 2cm auto 2cm;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-family:標楷體;
+    color: rgb(5, 134, 91);
+}
+h2{
+    text-align: center;
+    font-size: 35px;
+    font-family:標楷體;
+    color:rgb(136, 17, 109);
+}
+h3{
+    text-align:center;
+    font-size: 25px;
+    font-family:標楷體;
+    color:rgb(103, 33, 87);
+
+}
+
+.s11{
+    position: relative;
+    top: 50px;
+    left: 50px;
+    font-family:標楷體;
+    font-size: 40px;
+    color: #735A59;
+}
+.container1 {
+    width: 95%;
+    margin-top: 10px;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 40px;
+}
+.html {
+    width: 90%;
+    background-color: #BAA7A6;
+    font-size: 25px;
+    animation: html 2s linear;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.css {
+    width: 65%;
+    background-color: #BAA7A6;
+    font-size: 25px;
+    animation: css 2s linear;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.JavaScript {
+    width: 75%;
+    background-color: #BAA7A6;
+    font-size: 25px;
+    animation: JavaScript 2s linear;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.Java1{
+    width: 80%;
+    background-color: #BAA7A6;
+    font-size: 25px;
+    animation: Java1 2s linear;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.C{
+    width: 77%;
+    background-color: #BAA7A6;
+    font-size: 25px;
+    animation: Java1 2s linear;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.htmlt {
+    color: black;
+    animation: htmlt 2s linear;
+    background-color: transparent;
+    position: absolute;
+    top: 2px;
+    right: 35px;
+    width: 5px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.csst {
+    color: black;
+    animation: csst 2s linear;
+    background-color: transparent;
+    position: absolute;
+    top: 2px;
+    right: 35px;
+    width: 5px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.JavaScriptt {
+    color: black;
+    animation: JavaScriptt 2s linear;
+    background-color: transparent;
+    position: absolute;
+    top: 2px;
+    right: 35px;
+    width: 5px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.Javat {
+    color: black;
+    animation: Javat 2s linear;
+    background-color: transparent;
+    position: absolute;
+    top: 2px;
+    right: 35px;
+    width: 5px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.Ct {
+    color: black;
+    animation: Ct 2s linear;
+    background-color: transparent;
+    position: absolute;
+    top: 2px;
+    right: 35px;
+    width: 5px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.s12{
+    position: relative;
+    width: 550px;
+    left: 10pt;
+    float: left;
+}
+.s13{
+    position: absolute;
+    top: 500pt;
+    left: 500pt;
+    
+}
+.s14{
+    position: absolute;
+    top: 600pt;
+    left: 650pt;
+    
+}
+.s15{
+    position: absolute;
+    top: 500pt;
+    left: 800pt;
+    
+}
+.s16{
+    position: absolute;
+    top: 600pt;
+    left: 950pt;
+    
+}
+.g-progress1 {
+    width: 100pt;
+    height: 100pt;
+    border-radius: 50%;
+    background: conic-gradient(#FFCDB2 0, #FFCDB2 50%, #B5838D 25%, #B5838D);
+}
+.g-progress2 {
+    width: 100pt;
+    height: 100pt;
+    border-radius: 50%;
+    background: conic-gradient(#FFCDB2 0, #FFCDB2 20.2%, #B5838D 15.8%, #B5838D);
+}
+.g-progress3 {
+    width: 100pt;
+    height: 100pt;
+    border-radius: 50%;
+    background: conic-gradient(#FFCDB2 0, #FFCDB2 40%, #B5838D 25%, #B5838D);
+}
+.g-progress4 {
+    width: 100pt;
+    height: 100pt;
+    border-radius: 50%;
+    background: conic-gradient(#FFCDB2 0, #FFCDB2 90%, #B5838D 25%, #B5838D);
+}
+.inside-circle{
+    width: 80pt;
+    height: 80pt;
+    border-radius: 50%;
+    background-color: #D5C4C3;
+    position: relative;
+    top: 10pt;
+    left: 10pt;
+}
+p{
+    position: relative;
+    top:30pt;
+    text-align: center;
+    font-size: 20px;
+    color: #735A59;
+    font-family: 'Courier New', Courier, monospace;
+}
+.a1{
+    position: relative;
+    top: 50pt;
+    text-align: center;
+    font-size: 20pt;
+    color: #735A59;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.pic{
+    width: 500px;
+    height: 360px;
+    position: relative;
+    top:10pt;
+    left: 30pt;
+    float: left;
+}
+.pic1{
+    width: 500px;
+    height: 360px;
+    position: relative;
+    top:10pt;
+    left: 30pt;
+    float: left;
+}
+.a2{
+    position: relative;
+    font-size: 25pt;
+    font-family: 標楷體;
+    text-align: left;
+    color: #425a52;
+    z-index: 3;
+    left: 70pt;
+    top: 70px;
+    margin-right: 120px;
+    margin-left: 40px;
+}
+.a3{
+    position: relative;
+    top: 150pt;
+    left: -50pt;
+    float: right;
+}
+.a4{
+    position: relative;
+    font-size: 25pt;
+    font-family: 標楷體;
+    text-align: left;
+    color: #425a52;
+    z-index: 3;
+    left: 70pt;
+    top: 200px;
+    margin-right: 700px;
+    clear: left;
+}
+h5{
+    text-align: center;
+}
+.time1{
+    float: left;
+    width: 800pt;
+    height: 5pt;
+    background: #099a73;
+    margin: 80px 30px 30px 110px;
+    left: 100px;
+}
+.t1{
+    position: relative;
+    margin: 80px 0px 0px 100px;
+    left: -50px;
+    top:-100px;
+}
+.circle-text{
+    margin: 80px 0px 0px 100px;
+    width: 250px;
+    text-align: center;
+}
+.circle1{
+    float: left;
+    width:40pt;
+    height: 40pt;
+    border-radius: 50%;
+    background-color: #099a73;
+    position: relative;
+    top:-15pt;
+    left: 100pt;
+    text-align: center;
+}
+.circle2{
+    float: left;
+    width:40pt;
+    height: 40pt;
+    border-radius: 50%;
+    background-color: #099a73;
+    position: relative;
+    top:-15pt;
+    left: 250pt;
+    text-align: center;
+}
+.circle3{
+    float: left;
+    width:40pt;
+    height: 40pt;
+    border-radius: 50%;
+    background-color: #099a73;
+    position: relative;
+    top:-15pt;
+    left: 400pt;
+    text-align: center;
+}
+.circle4{
+    float: left;
+    width:40pt;
+    height: 40pt;
+    border-radius: 50%;
+    background-color: #099a73;
+    position: relative;
+    top:-15pt;
+    left: 550pt;
+    text-align: center;
+}
+.timepic{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    top:40px;
+    left:-100px;
+}
+.timepic2{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    top:40px;
+    left:50px;
+}
+.timepic3{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    top:40px;
+    left:200px;
+}
+.timepic4{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    top:40px;
+    left:350px;
+}
+.p1{
+    font-size: 30px;
+    font-family: 標楷體;
+    position: relative;
+    top:50px;
+    left: -370px;
+    
+}
+.p2{
+    font-size: 30px;
+    font-family: 標楷體;
+    position: relative;
+    top:-50px;
+    left: -120px;
+}
+.p3{
+    font-size: 30px;
+    font-family: 標楷體;
+    position: relative;
+    top:-150px;
+    left: 130px;
+}
+.p4{
+    font-size: 30px;
+    font-family: 標楷體;
+    position: relative;
+    top:-250px;
+    left: 380px;
+}
